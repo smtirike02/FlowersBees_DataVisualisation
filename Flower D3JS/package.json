@@ -1,0 +1,14 @@
+{
+  "name": "4642345204774b2e",
+  "main": "4642345204774b2e@1439.js",
+  "version": "1439.0.0",
+  "homepage": "https://observablehq.com/d/4642345204774b2e",
+  "author": {
+    "name": "samia",
+    "url": "https://observablehq.com/@samiatir"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
